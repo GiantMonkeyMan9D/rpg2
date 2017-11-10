@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-#This is my program!
 
 class Wolf:
 	def __init__(self):
